@@ -1,0 +1,19 @@
+{
+  "name": "mocha-cannot-find-module-issue",
+  "authors": [
+    "Alexey Kucherenko <alexei.kucherenko@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "^2.3.5",
+    "mocha": "^4.0.1",
+    "should": "^13.1.3"
+  }
+}

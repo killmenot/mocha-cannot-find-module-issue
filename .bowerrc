@@ -1,0 +1,7 @@
+{
+  "directory": "vendor",
+  "scripts": {
+    "preinstall": "chmod +x ./scripts/bower_postinstall.sh",
+    "postinstall": "./scripts/bower_postinstall.sh"
+  }
+}
